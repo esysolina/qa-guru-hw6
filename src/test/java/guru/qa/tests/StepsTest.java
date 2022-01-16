@@ -1,7 +1,6 @@
 package guru.qa.tests;
 
 import org.junit.jupiter.api.Test;
-
 import static guru.qa.tests.TestData.REPOSITORY;
 import static guru.qa.tests.TestData.NUMBER;
 
